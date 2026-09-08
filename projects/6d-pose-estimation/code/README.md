@@ -9,4 +9,4 @@ No custom CUDA kernels are used.
 The script is provided mainly to show how inference and timing were
 implemented.
 
-- `run_pipeline_real_timed.py` — inference pipeline with timing measurements
+- [`run_pipeline_real_timed.py`](run_pipeline_real_timed.py) — inference pipeline with timing measurements
