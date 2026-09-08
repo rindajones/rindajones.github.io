@@ -1,12 +1,9 @@
 # CUDA Inference Benchmark
 
-This directory contains the PyTorch/CUDA inference script used for the
-Ubuntu benchmark in the 6D Pose Estimation project.
+The PyTorch/CUDA inference script used for the Ubuntu benchmark is available on GitHub.
 
-The implementation uses standard PyTorch/torchvision with CUDA.
-No custom CUDA kernels are used.
+- [`run_pipeline_real_timed.py`](https://github.com/rindajones/rindajones.github.io/blob/main/projects/6d-pose-estimation/code/run_pipeline_real_timed.py?utm_source=chatgpt.com) - inference pipeline with timing measurements
 
-The script is provided mainly to show how inference and timing were
-implemented.
+The implementation uses standard PyTorch/torchvision with CUDA. No custom CUDA kernels are used.
 
-- [`run_pipeline_real_timed.py`](run_pipeline_real_timed.py) — inference pipeline with timing measurements
+Feedback on the CUDA execution or timing methodology is welcome.
