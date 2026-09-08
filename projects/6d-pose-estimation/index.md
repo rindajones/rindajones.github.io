@@ -1,4 +1,4 @@
-[Home](../../) | [Contact](../../contact.md)
+[Home](../../) | [Japanese](index-ja.html) 
 
 # 6D Pose Estimation from Monocular RGB
 

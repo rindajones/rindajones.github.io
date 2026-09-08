@@ -8,7 +8,8 @@ AI, computer vision, control, simulation and robotics projects.
 
 Object Detection → Keypoint Detection → PnP → 6D Pose
 
-- [View Project](projects/6d-pose-estimation)
+- [English](projects/6d-pose-estimation/)
+- [Japanese](projects/6d-pose-estimation/index-ja.html)
 - [CUDA Inference Benchmark Code](projects/6d-pose-estimation/code/)
 
 ### Suspended Payload Yaw Control
