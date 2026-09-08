@@ -14,8 +14,8 @@ Object Detection → Keypoint Detection → PnP → 6D Pose
 
 Vision-based yaw estimation and closed-loop control for suspended payloads.
 
-[GitHub Pages](https://rindajones.github.io/payload-yaw-control/en/)
-[Zenn (Japanese)](https://zenn.dev/rindajones/articles/a8b6189171848f)
+- [GitHub Pages](https://rindajones.github.io/payload-yaw-control/en/)
+- [Zenn (Japanese)](https://zenn.dev/rindajones/articles/a8b6189171848f)
 
 ## Contact
 
