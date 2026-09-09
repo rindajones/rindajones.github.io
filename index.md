@@ -21,6 +21,4 @@ Vision-based yaw estimation and closed-loop control for suspended payloads.
 
 ## Contact
 
-For inquiries, see the [Contact](contact.md) page.
-
  [GitHub](https://github.com/rindajones) | [Reddit](https://www.reddit.com/user/Alarming_Engineer267/) |  [Email](mailto:rindajones@gmail.com)
