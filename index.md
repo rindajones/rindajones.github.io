@@ -2,6 +2,16 @@
 
 AI, computer vision, control, simulation and robotics projects.
 
+## Technical Reports
+
+### Vision-Based Perception and Control Systems
+
+Development of perception and control systems using monocular
+
+RGB images and 3D simulation.
+
+- [Japanese (PDF)](reports/vision-control-report-ja.pdf)
+
 ## Projects
 
 ### 6D Pose Estimation from Monocular RGB
