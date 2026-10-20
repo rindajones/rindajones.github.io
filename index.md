@@ -11,6 +11,7 @@ Development of perception and control systems using monocular
 RGB images and 3D simulation.
 
 - [Japanese (PDF)](reports/vision-control-report-ja.pdf)
+- [English (PDF)](reports/vision-control-report-en.pdf)
 
 ## Projects
 
